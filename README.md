@@ -8,10 +8,13 @@
 
 ## 🛠️ Tech Stack
 ### 💻 Languages
-- JavaScript
 - C++
+- Java
+
+### 🌐 Web Technologies
 - HTML5
 - CSS3
+- Javascript
 
 ### ⚙️ Frameworks & Libraries
 - React.js
